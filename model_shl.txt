@@ -1,0 +1,1 @@
+< ts = 2; rot = 150; scaleX = 1.25; scaleY = 1.1; posY = 0; posX = 40><\>

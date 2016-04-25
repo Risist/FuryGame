@@ -1,0 +1,27 @@
+
+
+// sworld and shield
+< posX = 0 ; posY = 0 ; ts = 0, rot = 0 ; scaleX = 0.65 ; scaleY = 0.65; >
+	< ts = 1; rot = 0; scaleX = 1; scaleY = 1; clR = 150; clG=100; clB=150; > body
+		
+		<ts = 4; rot = -40; posX = 50; posY = 5; clR = 150; clG = 125; clB = 125 > right arm
+			<ts = 3; rot = -120; ud = 1; posX = 45>
+				the sworld
+				ts = 5; ud = 1; rot = 90; posY = 75>\>
+			<\>
+		<\>
+
+		
+		<ts = 4; rot = 40; posX = -50; posY = 5; clR = 150; clG = 125; clB = 125 > left arm
+			<ts = 3; rot = 120; ud = 1; posX = -45>
+				
+				the sword
+				ts = 5; ud = 1; rot = 90; posY = 75>\>
+				the shield
+				ts = 2; rot = 0; scaleX = 1.25; scaleY = 1.1; posY = 30>\>
+			<\>
+		<\>
+	<\>	
+	
+	< ts = 2; rot = 180; scaleX = 0.85; scaleY = 0.8; posY = -35 ><\> head
+<\>

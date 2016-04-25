@@ -1,0 +1,28 @@
+
+< ts = 12; scaleX = 0.2; scaleY = 0.2; 
+clA = 75;  clR = 200; clG = 50; clB = 50;
+
+posX = 0; posNoRotY = 0>
+<\>
+
+// propertites
+< liveTime = 250; minimalSteap = 50 >
+
+< 
+posX = 0.1; posX_max = 0.25
+rotAround = 1; rotAround_max = 5;
+clA = -0.4; clA_max = -0.3;
+>
+clR = -0.1; 
+clG = -0.1; 
+clB = -0.1; 
+
+>
+
+// change Min
+< posX = 0.1; posY = 0; posX_max = 0.75;
+
+ rot = 1; rot_max = 5; rotAround = 1; rotAround_max = 5;
+ scaleX = -0.001; scaleY = -0.001; scaleX_max = -0.0001; scaleY_max = -0.0001
+ clA = -0.4;  clR = 2.5; clG = 0.; clB = 0;
+>

@@ -1,0 +1,4 @@
+
+<ts = 9; ud = 1; rot = 0; posY = 0; scaleX = 1>
+	<ts = 9; ud = 1; rot = 0; posY = 100; scaleX = 0.25; scaleY = 1.5; clR = 100; clG = 100; clB = 100><\>
+<\>

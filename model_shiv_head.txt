@@ -1,0 +1,2 @@
+< ts = 2; rot = 180; scaleX = 0.85; scaleY = 0.8; posY = -35 ><\> head
+

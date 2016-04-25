@@ -1,0 +1,4 @@
+<ts = 4; rot = -40; posX = 50; posY = 5; clR = 150; clG = 125; clB = 125 > right arm
+	<ts = 3; rot = -120; ud = 1; posX = 45>
+	<\>
+<\>

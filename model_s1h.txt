@@ -1,0 +1,1 @@
+<ts = 5; ud = 1; rot = 90; posY = 75; scaleX = 1.25; scaleY = 1.25 ><\>

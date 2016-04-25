@@ -1,0 +1,44 @@
+< path =Graphics\\>
+	// shiveil
+	< path =shiveil\\headDk--.png> 1-8
+	< path =shiveil\\shieldDk.png> 2-9
+	< path =shiveil\\armDk.png> 3-10
+	< path =shiveil\\arm2Dk.png> 4-11
+	< path =shiveil\\weaponDk.png> 5-12
+	< path =shiveil\\axe_stick.png> 6
+	< path =shiveil\\axe_blade.png> 7
+
+
+	< path =Terrain\\ice\\stone2.png> 8
+	< path =Hero2\\ball.png> 9
+	< path =Shiveil\\blade.png> 10
+	< path =Terrain\\ice\\ice.png> 11
+	< path =waterBall.png> 12
+	< path =Shiveil\\shadyChange.png> 13
+	< path =Shiveil_ghost\\shadyChange.png> 14
+<\>
+
+	// Khlarani
+	< path =Khlarani\\shadowArm2.png> 6 - 4
+	< path =Khlarani\\shadowArm3.png> 7 - 5
+	< path =Khlarani\\shard2.png> 8 - 2
+	< path =Khlarani\\weapon.png> 9 - 3
+
+	//Terrain
+	< path =Terrain\\circlerunes2.png> 10
+	< path =Terrain\\pentagram3.png> 11
+	< path =Terrain\\chain2.png> 12
+	< path =Terrain\\spike.png> 13
+
+	< path =waterBall3.png> 14
+
+	< path =Terrain\\corridor.png> 15
+	< path =Terrain\\block.png> 16
+
+	< path =waterBall.png> 17	
+	< path =Terrain\\grass.png> 18
+	< path =Shiveil\\leg.png> 19
+	< path =Shiveil\\shadyChange.png> 20
+	< path =shiveil_ghost\\headDk--.png> 21
+	
+<\>

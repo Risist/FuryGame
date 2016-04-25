@@ -1,0 +1,1 @@
+<ts = 5; ud = 1; rot = 90; rotAround = 0; scaleX = 1.25; scaleY = 1.25; posY = 190><\>

@@ -1,0 +1,2 @@
+< ts = 1; scaleX = 0.2; scaleY = 0.4 ; clR = 20; clG = 20; clB = 20; clA = 255; >
+<\>

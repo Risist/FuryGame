@@ -1,0 +1,5 @@
+< ts = 2; scaleX = 0.75; scaleY = 0.75; 
+clA = 255;  clR = 255; clG = 100; clB = 100;
+
+posX = 0; posNoRotY = 0>
+<\>

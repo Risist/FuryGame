@@ -1,0 +1,1 @@
+<ts = 8; scaleX = 4; scaleY = 4; clR = 250; clG = 250; clB = 250; clA = 200;><\>

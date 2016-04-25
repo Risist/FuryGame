@@ -1,0 +1,6 @@
+<ts = 6; ud = 1; rot = 0;  scaleX = 1.1; scaleY = 1.35; 
+posY = 0; posX = -35;
+clR = 100; clG = 45; clB = 25>
+
+	<ts = 10; ud = 0; posY = -240; posX = 0; clR = 110; clG = 100; clB = 110; scaleX = 0.6; scaleY = 1.1;><\>
+<\>

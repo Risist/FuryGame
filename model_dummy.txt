@@ -1,0 +1,1 @@
+<ts = 9; ud = 1; rot = 0; posY = 0; scaleX = 1; clR = 215; clG = 200; clB = 200><\>

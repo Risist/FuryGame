@@ -1,0 +1,46 @@
+<language =eng; audioPath =Audio\\IntroTale.wav>
+	< eng =The tale begins when darkness were only the one thing; 
+	pl =Opowiesc rozpoczyna sie gdy prawdziwa byla jedynie ciemnosc;
+		timeLast = 4.5>
+
+	< eng =Nothing else existed; 
+	pl =Nic innego nie istnialo;
+		timeLast = 2> 
+
+	< eng =There was no time;
+	pl =Nie by³o czasu;
+		timeLast = 2>
+
+	< eng =Space seemed to be only an illusion; 
+	pl =Przestrzen zdawala sie byc jedynie iluzja;
+		 timeLast = 3.5>
+
+	< eng =The universe stayed in this holy order;
+	pl =I wszechswiat trwal w niezachwianym porzadku;
+	 timeLast = 4.5>
+
+	< eng =Without reason and purpose; 
+	pl = Bez przyczyny i celu;
+		timeLast = 3.>
+
+	< eng =But...; 
+	pl =Jednak...;
+		timeLast = 1.5>
+
+	< eng =Everything will face their end;
+	pl =Wszystko kiedys spotka swoj koniec;
+		 timeLast = 3.25>
+
+	< eng =Sooner or later; 
+	pl =Predzej czy pozniej;
+	timeLast = 2>
+
+	< eng =But still; 
+	pl =Jednak wciaz;
+		timeLast = 2>
+	
+	< eng =No matter when...;
+	pl = Bez znaczenia kiedy;
+		timeLast = 2.75>
+
+<\>
