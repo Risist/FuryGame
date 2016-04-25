@@ -1,0 +1,4 @@
+< step = 0; stepMin = -185; stepMax = 185; speed = 10 >
+
+	<model = 7; posY = -1 >
+<\>
