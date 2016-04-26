@@ -2,10 +2,8 @@
 #include "GameWorld.h"
 
 #include "GameStateManager.h"
-#include "SuState.h"
 #include "ElStateIntro.h"
 #include "ElStateNewBorn.h"
-#include "SlStateGame.h"
 
 using namespace sf;
 
@@ -17,7 +15,7 @@ Gui::Message *message;
 
 void init()
 {
-	wnd.create(VideoMode(1024, 768, 32), "", sf::Style::Default | sf::Style::Fullscreen);
+	wnd.create(VideoMode(1024, 768, 32), "FuryGame", sf::Style::Default | sf::Style::Fullscreen);
 	wnd.setFramerateLimit(60);
 	srand(time(nullptr));
 
@@ -28,11 +26,8 @@ void init()
 
 	Gui::Text::initFont("files\\Akv.ttf");
 
-	//stateManager.setState(new Su::State);
-	//stateManager.setState(new El::StateIntro);
-	stateManager.setState(new El::StateNewBorn);
-	//stateManager.setState(new Sl::StateGame);
-
+	stateManager.setState(new El::StateIntro);
+	//stateManager.setState(new El::StateNewBorn);
 
 
 	gui.initOut();
